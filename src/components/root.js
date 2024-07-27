@@ -69,7 +69,7 @@ class Root extends Component {
 			<React.Fragment>
 				<div className='titleAndLanguages'>
 					<span>
-						<h1>MapartCraft</h1>
+						<h1>DalMapCraft</h1>
 					</span>
 				</div>
 				<Header
